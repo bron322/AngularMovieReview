@@ -46,4 +46,5 @@ ng serve
 
 ### 4. **User Ratings and Comments**
    Share your opinions! Rate movies and leave comments to engage with the community. Your voice matters, and we want to hear what you loved or disliked about a film.
+   
 ---
